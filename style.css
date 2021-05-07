@@ -1,0 +1,189 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+}
+
+h1{
+  margin: 0;
+  font-size: 5rem;
+}
+
+h2{
+  margin: 0;
+  font-size: 3rem;
+}
+
+p{
+  margin: 0;
+  font-family: 'Freestyle Script', cursive;
+}
+
+table{
+  margin: 0 auto;
+}
+
+td{
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.blue{
+  color: #66BFBF;
+}
+
+.dblue{
+  color: #00adb5;
+}
+
+.pink{
+  color: #fb929e;
+}
+
+.red{
+  color: #f05454;
+}
+
+.txt1{
+  display: inline-block;
+  color: #66BFBF;
+  font-weight: bold;
+  width: 300px;
+  font-size: 3rem;
+  font-family: 'Freestyle Script', cursive;
+}
+
+.line-break{
+  border: dotted;
+  border-color: #a7bbc7;
+  border-width: 10px;
+  border-top: 0;
+  width: 510px;
+}
+
+.introduction{
+  margin-top: 50px;
+  display: inline-block;
+  text-align: center;
+}
+
+.my-gf{
+  position: relative;
+  left: 90px;
+  bottom: 380px;
+}
+
+.arrow{
+  position: relative;
+  height: 100px;
+  z-index: 10;
+  margin-right: -100px;
+  margin-bottom: 250px;
+}
+
+.photo-together{
+  position: relative;
+  border-radius: 10%;
+  height: 600px;
+}
+
+.inverted-arrow{
+  height: 100px;
+  position: relative;
+  margin-left: -100px;
+  margin-bottom: 300px;
+}
+
+.me{
+  position: relative;
+  right: 100px;
+  bottom: 420px;
+}
+
+.div1{
+  background-color: #e4f9f5;
+  padding-top: 50px;
+  position: relative;
+}
+
+.div2{
+  background-color: #fbe8e7;
+}
+
+.div3{
+  background-color: #e4f9f5;
+}
+
+.unfortunate-txt{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.sad-emoji{
+  width: 45px;
+}
+
+.memory-txt{
+  padding-top: 50px;
+}
+
+.toupai-txt{
+  display: inline-block;
+  position: relative;
+  left: 450px;
+  bottom: 30px;
+}
+
+.arrow2{
+  position: relative;
+  bottom: 880px;
+  left: 420px;
+  height: 110px;
+  margin-bottom: -100px;
+}
+
+.ytb-mp4{
+  border-radius: 13%;
+}
+
+.table-img{
+  height: 300px;
+  border-radius: 10%;
+}
+
+.table-txt{
+  margin: 0;
+  color: #fb929e;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.apple-watch-txt{
+  position: relative;
+  display: inline-block;
+  color: #66BFBF;
+  font-weight: bold;
+  font-size: 3rem;
+  left: 100px;
+  bottom: 360px;
+}
+
+.arrow3{
+  position: relative;
+  height: 100px;
+  z-index: 10;
+  margin-bottom: 250px;
+}
+
+.wish{
+  margin: 0;
+  display: inline-block;
+  color: #66BFBF;
+  font-weight: bold;
+  font-size: 3rem;
+  padding-bottom: 50px;
+}
+
+  .chinese{
+    font-family: 'Butterfly and love pattern Chinese Font-Simplified Chinese Fonts', 'Ma Shan Zheng';
+  }
